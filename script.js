@@ -1,7 +1,7 @@
 document.documentElement.classList.add("js");
 
 const CONFIG = {
-  tokenAddress: "",
+  tokenAddress: "AYqXTCgv7jw8RXU6UR7yoqMo7hD1ryNfctjVQs1zpump",
   pumpFunUrl: "",
   twitter: "https://x.com/solyacoinonx",
   telegram: "https://t.me/solyacat_tg",
